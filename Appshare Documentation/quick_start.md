@@ -5,8 +5,8 @@ Quick start into Appshare applications
 
 ### List of topics
 
- - Download and install the app.
- - Create our first upload and publish it.
+- Desktop Applications
+- Specifications
 
 #### Desktop Applications
 

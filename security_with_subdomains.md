@@ -1,13 +1,5 @@
 ### Security with subdomains: assessment and proposals
 
-What subdomains already improved: each account's site is now its own browser origin.
-
-- Before, every account lived on appshare.site/<slug>, so they all shared one origin and its storage. A script on one account's pages could read the sign-in token another account had stored there.
-- Now acme.appshare.site and ngonzalez.appshare.site are isolated from each other by the browser.
-- Account HTML (logos, custom HTML) is already sanitized with DOMPurify, and the backend's session cookie is host-only.
-
-What I found, and what I'd change:
-
 #: 1
 Change: Session cookie Secure
 Why: The backend's session_id cookie is missing the Secure flag, so a browser could
@@ -72,4 +64,3 @@ discussing first.
 Effort: process
 Where: —
 
-Outside the subdomain work, but urgent: the router still forwards port 5432 (PostgreSQL) to the internet. make check showed scanners trying passwords on it today. Removing that forward on your router is the biggest quick win.
