@@ -5,8 +5,11 @@ Install the macOS client application
 
 ### List of topics
 
- - Install the macOS client application
- - Register for an account with your account code
+- Install the macOS client application
+- Register for a new user account with your account code
+- Sign-in with the desktop application
+- Access your account
+- Edit your account
 
 #### Install the macOS client application
 
@@ -18,4 +21,28 @@ Use the account code in the email you received to create a new user account
 
 <br />
 
-![img](https://github.com/ngonzalez/appshare/blob/main/DemoApp-Screenshots/Screenshot%202026-10-25%20at%203.34.40%E2%80%AFAM.png?raw=true)
+![img](https://api.appshare.site/attachment/screenshot-2026-10-25-at-1-c89c15ab)
+
+#### Sign-in with the desktop application
+
+Submit your email address and password to create a new login session with Appshare
+
+<br />
+
+![img](https://api.appshare.site/attachment/screenshot-2026-10-25-at-1-73042ebf)
+
+#### Access your account
+
+Access your account page by clicking the Account tab in the left sidebar
+
+<br />
+
+![img](https://api.appshare.site/attachment/screenshot-2026-10-25-at-1-6e9fd164)
+
+#### Edit your account
+
+Access your account page by clicking the Account tab in the left sidebar
+
+<br />
+
+![img](https://api.appshare.site/attachment/screenshot-2026-10-25-at-1-758bfa16)
