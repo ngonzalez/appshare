@@ -12,8 +12,8 @@ Install the macOS client application
 
 Drag the application to the /Applications folder
 
-![img](https://github.com/ngonzalez/appshare/blob/main/DemoApp-Screenshots/Screenshot%202026-10-25%20at%203.02.49%E2%80%AFAM.png?raw=true)
-
+<br />
+<img src="https://github.com/ngonzalez/appshare/blob/main/DemoApp-Screenshots/Screenshot%202026-10-25%20at%203.02.49%E2%80%AFAM.png?raw=true" width="120">
 
 #### Register for an account with your account code
 
