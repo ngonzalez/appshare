@@ -24,6 +24,7 @@ import os
 import pathlib
 import re
 import sys
+import time
 import urllib.error
 import urllib.request
 
@@ -38,9 +39,11 @@ PREFIX = re.compile(r"^(\s*(?:#{1,6}\s+|[-*+]\s+|\d+\.\s+|>\s*)?)(.*)$")
 # The lines not sent at all
 TABLE_SEPARATOR = re.compile(r"^\s*\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)*\|?\s*$")
 ONLY_TAGS = re.compile(r"^\s*(<[^>]+>\s*)+$")
-# Inside a line: what is protected or converted, in this order
+# Inside a line: what is protected or converted, in this order (dates too:
+# the translator would reorder 02/11/2026 into another country's format)
 INLINE = re.compile(
     r"(?P<code>`[^`]+`)"
+    r"|(?P<date>\b\d{1,2}/\d{1,2}/\d{4}\b)"
     r"|(?P<image>!\[[^\]]*\]\([^)]*\))"
     r"|(?P<link>\[(?P<text>[^\]]+)\]\((?P<url>[^)]+)\))"
     r"|(?P<strong3>\*\*\*(?P<s3>.+?)\*\*\*)"
@@ -63,7 +66,7 @@ def to_html(text, urls):
     for match in INLINE.finditer(text):
         out.append(html.escape(text[last:match.start()], quote=False))
         last = match.end()
-        if match["code"] or match["image"] or match["tag"] or match["pipe"]:
+        if match["code"] or match["date"] or match["image"] or match["tag"] or match["pipe"]:
             out.append(keep(match.group(0)))
         elif match["link"]:
             urls.append(match["url"])
@@ -88,6 +91,15 @@ def to_markdown(translated, urls):
     return html.unescape(text)
 
 
+def tidy_table_row(line):
+    """A table row with one space around each cell (the translator moves the
+    padding): | a | b |"""
+    if not line.lstrip().startswith("|"):
+        return line
+    cells = line.strip().strip("|").split("|")
+    return "| " + " | ".join(cell.strip() for cell in cells) + " |"
+
+
 def plan(page_text):
     """The page's lines: each kept as is, or (prefix, html, urls) to translate"""
     lines, in_code = [], False
@@ -104,8 +116,15 @@ def plan(page_text):
     return lines
 
 
+# How often a request rate limited by the free tier (429) is tried again,
+# and how long to wait when the answer doesn't say
+RETRIES = 6
+RETRY_WAIT = 30
+
+
 def azure_translate(texts):
-    """Each text in every language: {language: [translations, in order]}"""
+    """Each text in every language: {language: [translations, in order]}; a
+    request refused for the free tier's rate (429) waits and tries again"""
     key, region = os.environ.get("AZURE_TRANSLATOR_KEY"), os.environ.get("AZURE_TRANSLATOR_REGION")
     if not key or not region:
         sys.exit("Set AZURE_TRANSLATOR_KEY and AZURE_TRANSLATOR_REGION (the Translator resource's key and location)")
@@ -116,11 +135,17 @@ def azure_translate(texts):
         headers={"Ocp-Apim-Subscription-Key": key, "Ocp-Apim-Subscription-Region": region, "Content-Type": "application/json"},
         method="POST",
     )
-    try:
-        with urllib.request.urlopen(request, timeout=60) as response:
-            results = json.load(response)
-    except urllib.error.HTTPError as error:
-        raise RuntimeError(f"Azure Translator answered {error.code}: {error.read().decode(errors='replace')[:300]}") from error
+    for attempt in range(RETRIES + 1):
+        try:
+            with urllib.request.urlopen(request, timeout=60) as response:
+                results = json.load(response)
+            break
+        except urllib.error.HTTPError as error:
+            if error.code != 429 or attempt == RETRIES:
+                raise RuntimeError(f"Azure Translator answered {error.code}: {error.read().decode(errors='replace')[:300]}") from error
+            wait = int(error.headers.get("Retry-After") or RETRY_WAIT)
+            print(f"  rate limited: waiting {wait} s", flush=True)
+            time.sleep(wait)
     by_language = {code: [] for code in LANGUAGES}
     for result in results:
         for translation in result["translations"]:
@@ -139,7 +164,7 @@ def translate_page(page_text, translator=azure_translate):
         for line in lines:
             if isinstance(line, tuple):
                 prefix, _, urls = line
-                pieces.append(prefix + to_markdown(next(results), urls))
+                pieces.append(tidy_table_row(prefix + to_markdown(next(results), urls)))
             else:
                 pieces.append(line)
         pages[code] = "\n".join(pieces)
