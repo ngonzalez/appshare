@@ -29,7 +29,7 @@ Submit your email address and password to create a new login session with Appsha
 
 <br />
 
-![img](https://github.com/ngonzalez/appshare/raw/main/DemoApp-Screenshots/Screenshot%202026-11-02%20at%209.41.58%E2%80%AFPM.png)
+![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-cf339407)
 
 #### Access your account
 
@@ -37,7 +37,7 @@ Access your account page by clicking the Account tab in the left sidebar: your p
 
 <br />
 
-![img](https://github.com/ngonzalez/appshare/raw/main/DemoApp-Screenshots/Screenshot%202026-11-02%20at%209.42.21%E2%80%AFPM.png)
+![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-bcfc02fe)
 
 #### Edit your account
 
@@ -45,7 +45,7 @@ Click "Edit account" to change your name, your email address and your notificati
 
 <br />
 
-![img](https://github.com/ngonzalez/appshare/raw/main/DemoApp-Screenshots/Screenshot%202026-11-02%20at%209.42.28%E2%80%AFPM.png)
+![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-165d8456)
 
 #### Invite users
 
@@ -57,7 +57,7 @@ Click the Upload tab, then Import, and choose the files or the folder to upload
 
 <br />
 
-![img](https://github.com/ngonzalez/appshare/raw/main/DemoApp-Screenshots/Screenshot%202026-11-02%20at%209.43.17%E2%80%AFPM.png)
+![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-676aa2ed)
 
 #### Your folders and files
 
@@ -65,16 +65,16 @@ Your folders, created or published, and their files by type
 
 <br />
 
-![img](https://github.com/ngonzalez/appshare/raw/main/DemoApp-Screenshots/Screenshot%202026-11-02%20at%209.42.37%E2%80%AFPM.png)
+![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-edbd2ffa)
 
 Select a folder to see its files and change it: publish it, archive it or delete it
 
 <br />
 
-![img](https://github.com/ngonzalez/appshare/raw/main/DemoApp-Screenshots/Screenshot%202026-11-02%20at%209.42.50%E2%80%AFPM.png)
+![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-be828698)
 
 Select a file to preview it and read its details
 
 <br />
 
-![img](https://github.com/ngonzalez/appshare/raw/main/DemoApp-Screenshots/Screenshot%202026-11-02%20at%209.42.58%E2%80%AFPM.png)
+![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-13cffa37)

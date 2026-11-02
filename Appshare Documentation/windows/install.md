@@ -29,7 +29,7 @@ Submit your email address and password to create a new login session with Appsha
 
 <br />
 
-![img](https://github.com/ngonzalez/appshare/raw/main/MauiApp-Screenshots/Screenshot%202026-11-02%20at%209.58.43%E2%80%AFPM.png)
+![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-8a1b21d2)
 
 #### Access your account
 
@@ -37,7 +37,7 @@ Your account page shows your plan, how much storage your files take and how many
 
 <br />
 
-![img](https://github.com/ngonzalez/appshare/raw/main/MauiApp-Screenshots/Screenshot%202026-11-02%20at%209.59.56%E2%80%AFPM.png)
+![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-c0783574)
 
 #### Edit your account
 
@@ -57,13 +57,13 @@ Click "Upload Files", then pick the folder to upload and click "Send Files"
 
 <br />
 
-![img](https://github.com/ngonzalez/appshare/raw/main/MauiApp-Screenshots/Screenshot%202026-11-02%20at%2010.00.15%E2%80%AFPM.png)
+![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-10-f3b8bcf5)
 
 Choose the folder in the window that opens
 
 <br />
 
-![img](https://github.com/ngonzalez/appshare/raw/main/MauiApp-Screenshots/Screenshot%202026-11-02%20at%2010.00.37%E2%80%AFPM.png)
+![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-10-f5d71909)
 
 #### Your folders and files
 
@@ -71,10 +71,10 @@ Click "List Folders" to see your folders, created or published, and open them on
 
 <br />
 
-![img](https://github.com/ngonzalez/appshare/raw/main/MauiApp-Screenshots/Screenshot%202026-11-02%20at%2010.00.50%E2%80%AFPM.png)
+![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-10-40598990)
 
 Open a file to preview it and read its details
 
 <br />
 
-![img](https://github.com/ngonzalez/appshare/raw/main/MauiApp-Screenshots/Screenshot%202026-11-02%20at%2010.01.26%E2%80%AFPM.png)
+![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-10-6aecb972)
