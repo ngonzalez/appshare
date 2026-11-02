@@ -1,7 +1,6 @@
-
 #### Desktop Applications
 
-We use a macOS client and a Windows client to upload files on our servers.
+We use a macOS client and a Windows client to upload files on our servers: sign in, upload your folders (files of up to 5000 MiB each), publish them, preview their files, and invite your team.
 
 Configuration minimum requirements:
 
