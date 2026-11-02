@@ -1,4 +1,3 @@
-
 #### Windows: Install client application
 
 Install the Windows client application
@@ -11,6 +10,8 @@ Install the Windows client application
 - Access your account
 - Edit your account
 - Invite users
+- Upload files
+- Your folders and files
 
 #### Install the Windows client application
 
@@ -18,7 +19,7 @@ Install the Windows client application
 
 #### Create an account, or join one
 
-A new account is created on [register.appshare.site](https://register.appshare.site): choose your plan, Pro or Business, and pay securely with Stripe. Your account is created once the payment succeeds. The application's "Register for a new account" button opens that page.
+A new account is created on [register.appshare.site](https://register.appshare.site): choose your plan, Pro or Business, and pay securely with Stripe. Your account is created once the payment succeeds. The application's "Register for a new user account" button opens that page.
 
 To join an existing account, ask one of its users to invite you: follow the link in the invitation email, then choose your name and password.
 
@@ -28,19 +29,19 @@ Submit your email address and password to create a new login session with Appsha
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-10-25-at-1-f4bf91de)
+![img](https://github.com/ngonzalez/appshare/raw/main/MauiApp-Screenshots/Screenshot%202026-11-02%20at%209.58.43%E2%80%AFPM.png)
 
 #### Access your account
 
-Access your account page by clicking the Account tab in the left sidebar
+Your account page shows your plan, how much storage your files take and how many users the account has, with the buttons to upload files, list your folders and edit your account
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-10-25-at-1-d97638aa)
+![img](https://github.com/ngonzalez/appshare/raw/main/MauiApp-Screenshots/Screenshot%202026-11-02%20at%209.59.56%E2%80%AFPM.png)
 
 #### Edit your account
 
-Change your name, your email address and your password from your account page
+Click "Edit My Account" to change your name, your email address and your password
 
 <br />
 
@@ -48,4 +49,32 @@ Change your name, your email address and your password from your account page
 
 #### Invite users
 
-On your account page, enter an email address under "Invite users" and click "Send invitation": the person receives an invitation to join your account, valid for 7 days. Your plan sets how many users the account may have: 3 for Pro, 10 for Business.
+On the "Edit My Account" page, enter an email address under "Invite users" and click "Send invitation": the person receives an invitation to join your account, valid for 7 days. Your plan sets how many users the account may have: 3 for Pro, 10 for Business.
+
+#### Upload files
+
+Click "Upload Files", then pick the folder to upload and click "Send Files"
+
+<br />
+
+![img](https://github.com/ngonzalez/appshare/raw/main/MauiApp-Screenshots/Screenshot%202026-11-02%20at%2010.00.15%E2%80%AFPM.png)
+
+Choose the folder in the window that opens
+
+<br />
+
+![img](https://github.com/ngonzalez/appshare/raw/main/MauiApp-Screenshots/Screenshot%202026-11-02%20at%2010.00.37%E2%80%AFPM.png)
+
+#### Your folders and files
+
+Click "List Folders" to see your folders, created or published, and open them on the web
+
+<br />
+
+![img](https://github.com/ngonzalez/appshare/raw/main/MauiApp-Screenshots/Screenshot%202026-11-02%20at%2010.00.50%E2%80%AFPM.png)
+
+Open a file to preview it and read its details
+
+<br />
+
+![img](https://github.com/ngonzalez/appshare/raw/main/MauiApp-Screenshots/Screenshot%202026-11-02%20at%2010.01.26%E2%80%AFPM.png)
