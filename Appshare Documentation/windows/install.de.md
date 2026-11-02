@@ -43,9 +43,6 @@ Deine Kontoseite zeigt deinen Tarif, wie viel Speicherplatz deine Dateien benöt
 
 Klicken Sie auf "Mein Konto bearbeiten", um Ihren Namen, Ihre E-Mail-Adresse und Ihr Passwort zu ändern
 
-<br />
-
-![img](https://api.appshare.site/attachment/screenshot-2026-10-25-at-2-fc01ade9)
 
 #### Nutzer einladen
 

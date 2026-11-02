@@ -43,9 +43,6 @@ La page de votre compte affiche votre plan, la quantité de stockage de vos fich
 
 Cliquez sur « Modifier mon compte » pour changer votre nom, votre adresse e-mail et votre mot de passe
 
-<br />
-
-![img](https://api.appshare.site/attachment/screenshot-2026-10-25-at-2-fc01ade9)
 
 #### Inviter les utilisateurs
 

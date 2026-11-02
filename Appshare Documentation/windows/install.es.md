@@ -43,9 +43,6 @@ La página de tu cuenta muestra tu plan, cuánto espacio de almacenamiento ocupa
 
 Haz clic en "Editar mi cuenta" para cambiar tu nombre, tu dirección de correo electrónico y tu contraseña
 
-<br />
-
-![img](https://api.appshare.site/attachment/screenshot-2026-10-25-at-2-fc01ade9)
 
 #### Invitar usuarios
 

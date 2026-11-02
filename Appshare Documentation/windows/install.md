@@ -43,9 +43,6 @@ Your account page shows your plan, how much storage your files take and how many
 
 Click "Edit My Account" to change your name, your email address and your password
 
-<br />
-
-![img](https://api.appshare.site/attachment/screenshot-2026-10-25-at-2-fc01ade9)
 
 #### Invite users
 
