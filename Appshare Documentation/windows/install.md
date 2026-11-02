@@ -6,22 +6,21 @@ Install the Windows client application
 ### List of topics
 
 - Install the Windows client application
-- Register for a new user account with your account code
+- Create an account, or join one
 - Sign-in with the desktop application
 - Access your account
 - Edit your account
+- Invite users
 
 #### Install the Windows client application
 
 Install the Windows client application
 
-#### Register for a new user account with your account code
+#### Create an account, or join one
 
-Use the account code in the email you received to create a new user account
+A new account is created on [register.appshare.site](https://register.appshare.site): choose your plan, Pro or Business, and pay securely with Stripe. Your account is created once the payment succeeds. The application's "Register for a new account" button opens that page.
 
-<br />
-
-![img](https://api.appshare.site/attachment/screenshot-2026-10-25-at-1-c46d55cc)
+To join an existing account, ask one of its users to invite you: follow the link in the invitation email, then choose your name and password.
 
 #### Sign-in with the desktop application
 
@@ -41,8 +40,12 @@ Access your account page by clicking the Account tab in the left sidebar
 
 #### Edit your account
 
-Access your account page by clicking the Account tab in the left sidebar
+Change your name, your email address and your password from your account page
 
 <br />
 
 ![img](https://api.appshare.site/attachment/screenshot-2026-10-25-at-2-fc01ade9)
+
+#### Invite users
+
+On your account page, enter an email address under "Invite users" and click "Send invitation": the person receives an invitation to join your account, valid for 7 days. Your plan sets how many users the account may have: 3 for Pro, 10 for Business.
