@@ -57,15 +57,15 @@ Haz clic en la pestaña Subir, luego en Importar, y elige los archivos o la carp
 
 <br />
 
+![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-edbd2ffa)
+
+<br />
+
 ![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-676aa2ed)
 
 #### Tus carpetas y archivos
 
 Tus carpetas, creadas o publicadas, y sus archivos por tipo
-
-<br />
-
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-edbd2ffa)
 
 Selecciona una carpeta para ver sus archivos y cámbiala: publícala, arquívala o elimínala
 

@@ -57,15 +57,15 @@ Cliquez sur l’onglet Téléverser, puis Importer, et choisissez les fichiers o
 
 <br />
 
+![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-edbd2ffa)
+
+<br />
+
 ![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-676aa2ed)
 
 #### Vos dossiers et fichiers
 
 Vos dossiers, créés ou publiés, et leurs fichiers par type
-
-<br />
-
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-edbd2ffa)
 
 Sélectionnez un dossier pour voir ses fichiers et modifiez-le : publiez-le, archivez-le ou supprimez-le
 

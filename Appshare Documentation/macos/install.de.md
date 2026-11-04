@@ -57,15 +57,15 @@ Klicken Sie auf den Reiter Upload, dann auf Import, und wählen Sie die Dateien 
 
 <br />
 
+![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-edbd2ffa)
+
+<br />
+
 ![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-676aa2ed)
 
 #### Deine Ordner und Dateien
 
 Ihre Ordner, erstellt oder veröffentlicht, und deren Dateien nach Typ
-
-<br />
-
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-edbd2ffa)
 
 Wählen Sie einen Ordner aus, um seine Dateien einzusehen, und ändern Sie ihn: veröffentlichen, archivieren oder löschen oder
 

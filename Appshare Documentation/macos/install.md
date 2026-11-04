@@ -57,15 +57,15 @@ Click the Upload tab, then Import, and choose the files or the folder to upload
 
 <br />
 
+![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-edbd2ffa)
+
+<br />
+
 ![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-676aa2ed)
 
 #### Your folders and files
 
 Your folders, created or published, and their files by type
-
-<br />
-
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-edbd2ffa)
 
 Select a folder to see its files and change it: publish it, archive it or delete it
 
