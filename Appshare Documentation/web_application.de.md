@@ -54,3 +54,7 @@ Die Tabs des Admins richten deine Website ein:
 #### Ihr Tarif und Ihr Abo
 
 Der **Reiter Nutzung** zeigt deinen Tarif, den Speicherplatz deiner Dateien und deine Nutzer an. "Abrechnung verwalten" öffnet dein Abo auf Stripe: Ändere deinen Tarif oder deine Karte, lies deine Rechnungen oder kündige dich.
+
+<br />
+
+![img](https://api.appshare.site/attachment/screenshot-2026-11-04-at-11-ff26de98)

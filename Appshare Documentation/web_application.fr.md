@@ -54,3 +54,7 @@ Changez les noms et tags de vos dossiers, ainsi que leur publication : publiés 
 #### Votre forfait et votre abonnement
 
 **L’onglet Utilisation** affiche votre forfait, le stockage que prennent vos fichiers et vos utilisateurs. « Gérer la facturation » ouvre votre abonnement sur Stripe : changez votre forfait ou votre carte, lisez vos factures ou annulez.
+
+<br />
+
+![img](https://api.appshare.site/attachment/screenshot-2026-11-04-at-11-ff26de98)

@@ -54,3 +54,7 @@ Cambia los nombres y etiquetas de tus carpetas, y su publicación: publicada (si
 #### Tu plan y tu suscripción
 
 La pestaña **de Uso** muestra tu plan, el almacenamiento que ocupan tus archivos y tus usuarios. "Gestionar facturación" abre tu suscripción en Stripe: cambia tu plan o tu tarjeta, lee tus facturas o cancela.
+
+<br />
+
+![img](https://api.appshare.site/attachment/screenshot-2026-11-04-at-11-ff26de98)

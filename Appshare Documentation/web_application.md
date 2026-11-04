@@ -54,3 +54,7 @@ Change your folders' names and tags, and their publication: published (always, o
 #### Your plan and your subscription
 
 The **Usage** tab shows your plan, the storage your files take and your users. "Manage billing" opens your subscription on Stripe: change your plan or your card, read your invoices, or cancel.
+
+<br />
+
+![img](https://api.appshare.site/attachment/screenshot-2026-11-04-at-11-ff26de98)
