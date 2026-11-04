@@ -29,7 +29,7 @@ Submit your email address and password to create a new login session with Appsha
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-cf339407)
+![img](https://api.appshare.site/attachment/new-session-2c14b7a3)
 
 #### Access your account
 
@@ -37,7 +37,7 @@ Access your account page by clicking the Account tab in the left sidebar: your p
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-bcfc02fe)
+![img](https://api.appshare.site/attachment/my-account-fd868caa)
 
 #### Edit your account
 
@@ -45,11 +45,15 @@ Click "Edit account" to change your name, your email address and your notificati
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-165d8456)
+![img](https://api.appshare.site/attachment/edit-account-df529757)
 
 #### Invite users
 
 Click "Invite users" on your account page and enter an email address: the person receives an invitation to join your account, valid for 7 days. Your plan sets how many users the account may have: 3 for Pro, 10 for Business.
+
+<br />
+
+![img](https://api.appshare.site/attachment/invite-users-58903593)
 
 #### Upload files
 
@@ -57,11 +61,11 @@ Click the Upload tab, then Import, and choose the files or the folder to upload
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-edbd2ffa)
+![img](https://api.appshare.site/attachment/list-folders-ba58081b)
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-676aa2ed)
+![img](https://api.appshare.site/attachment/browse-files-eeca9b46)
 
 #### Your folders and files
 
@@ -71,10 +75,10 @@ Select a folder to see its files and change it: publish it, archive it or delete
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-be828698)
+![img](https://api.appshare.site/attachment/select-folder-81fe2592)
 
 Select a file to preview it and read its details
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-13cffa37)
+![img](https://api.appshare.site/attachment/display-video-file-6b350fb1)

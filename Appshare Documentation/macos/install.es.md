@@ -29,7 +29,7 @@ Introduce tu dirección de correo electrónico y contraseña para crear una nuev
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-cf339407)
+![img](https://api.appshare.site/attachment/new-session-2c14b7a3)
 
 #### Accede a tu cuenta
 
@@ -37,7 +37,7 @@ Accede a tu página de cuenta haciendo clic en la pestaña de Cuenta en la barra
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-bcfc02fe)
+![img](https://api.appshare.site/attachment/my-account-fd868caa)
 
 #### Edita tu cuenta
 
@@ -45,11 +45,15 @@ Haz clic en "Editar cuenta" para cambiar tu nombre, tu dirección de correo elec
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-165d8456)
+![img](https://api.appshare.site/attachment/edit-account-df529757)
 
 #### Invitar usuarios
 
 Haz clic en "Invitar usuarios" en la página de tu cuenta e introduce una dirección de correo electrónico: la persona recibe una invitación para unirse a tu cuenta, válida durante 7 días. Tu plan establece cuántos usuarios puede tener la cuenta: 3 para Pro, 10 para Business.
+
+<br />
+
+![img](https://api.appshare.site/attachment/invite-users-58903593)
 
 #### Subir archivos
 
@@ -57,11 +61,11 @@ Haz clic en la pestaña Subir, luego en Importar, y elige los archivos o la carp
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-edbd2ffa)
+![img](https://api.appshare.site/attachment/list-folders-ba58081b)
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-676aa2ed)
+![img](https://api.appshare.site/attachment/browse-files-eeca9b46)
 
 #### Tus carpetas y archivos
 
@@ -71,10 +75,10 @@ Selecciona una carpeta para ver sus archivos y cámbiala: publícala, arquívala
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-be828698)
+![img](https://api.appshare.site/attachment/select-folder-81fe2592)
 
 Selecciona un archivo para previsualizarlo y lee sus detalles
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-13cffa37)
+![img](https://api.appshare.site/attachment/display-video-file-6b350fb1)

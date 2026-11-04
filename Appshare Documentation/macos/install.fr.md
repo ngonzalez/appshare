@@ -29,7 +29,7 @@ Soumettez votre adresse e-mail et votre mot de passe pour créer une nouvelle se
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-cf339407)
+![img](https://api.appshare.site/attachment/new-session-2c14b7a3)
 
 #### Accédez à votre compte
 
@@ -37,7 +37,7 @@ Accédez à votre page de compte en cliquant sur l’onglet Compte dans la barre
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-bcfc02fe)
+![img](https://api.appshare.site/attachment/my-account-fd868caa)
 
 #### Modifier votre compte
 
@@ -45,11 +45,15 @@ Cliquez sur « Modifier le compte » pour changer votre nom, votre adresse e-mai
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-165d8456)
+![img](https://api.appshare.site/attachment/edit-account-df529757)
 
 #### Inviter les utilisateurs
 
 Cliquez sur « Inviter des utilisateurs » sur la page de votre compte et saisissez une adresse e-mail : la personne reçoit une invitation à rejoindre votre compte, valable 7 jours. Votre forfait détermine le nombre d’utilisateurs du compte : 3 pour Pro, 10 pour Business.
+
+<br />
+
+![img](https://api.appshare.site/attachment/invite-users-58903593)
 
 #### Téléchargement des fichiers
 
@@ -57,11 +61,11 @@ Cliquez sur l’onglet Téléverser, puis Importer, et choisissez les fichiers o
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-edbd2ffa)
+![img](https://api.appshare.site/attachment/list-folders-ba58081b)
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-676aa2ed)
+![img](https://api.appshare.site/attachment/browse-files-eeca9b46)
 
 #### Vos dossiers et fichiers
 
@@ -71,10 +75,10 @@ Sélectionnez un dossier pour voir ses fichiers et modifiez-le : publiez-le, arc
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-be828698)
+![img](https://api.appshare.site/attachment/select-folder-81fe2592)
 
 Sélectionnez un fichier pour l’apercevoir et lisez ses détails
 
 <br />
 
-![img](https://api.appshare.site/attachment/screenshot-2026-11-02-at-9-13cffa37)
+![img](https://api.appshare.site/attachment/display-video-file-6b350fb1)
